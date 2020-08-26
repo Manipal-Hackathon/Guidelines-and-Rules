@@ -1,6 +1,6 @@
 # Welcome to Manipal Hackathon 2.0 - Round 2
 
-#### Greetings from Team Manipal Hackathon! Round 2 will take place here on Github, please refer to the points below for more information.
+#### Round 2 will take place here on Github, please refer to the points below for more information.
 
 ## Guidelines and Rules:
 
