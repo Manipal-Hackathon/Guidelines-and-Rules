@@ -1,4 +1,4 @@
-# Welcome to Manipal Hackathon 2.0 - Round 2
+# Welcome to Manipal Hackathon 2.0 - Round 2 <img align="right" width="200" height="47" src="https://hackathon.techtatva.in/images/lighttheme/logo1.svg">
 
 #### Round 2 will take place here on Github, please refer to the points below for more information.
 
@@ -30,9 +30,7 @@ This is a technical round. You have to **submit a PPT (Proof of Concept) and vid
 
 10. Thank you slide
 
-The video's length should be in the range of **3-5 minutes**. 
-
-For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
+The video's length should be in the range of **3-5 minutes**. For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
 
 #### Submission Rules:
 
