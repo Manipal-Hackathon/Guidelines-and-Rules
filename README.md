@@ -39,7 +39,8 @@ The video's length should be in the range of **3-5 minutes**. For more details r
 1) The submission will be here on **Github**
 
 2) You will be able to create a repository only during the last day of Round 2.
-**Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM (24 hours).
+
+### Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM (24 hours).
 
 **The page will be active for 24 hours so participants must make sure that they upload their ppt and video by then.**
 
