@@ -32,7 +32,9 @@ This is a technical round. You have to **submit a PPT (Proof of Concept) and vid
 
 10. Thank you slide
 
-The video's length should be around **5 minutes**. For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
+The video length should be around **5 minutes**. For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
+
+**Important:** Upload your video on Youtube and make it **unlisted.** Click [here](https://support.google.com/youtube/answer/157177?hl=en&co=GENIE.Platform%3DAndroid&oco=0) for help.
 
 #### Submission Rules:
 
@@ -44,7 +46,8 @@ The video's length should be around **5 minutes**. For more details regarding vi
 
 **The page will be active for 24 hours so participants must make sure that they upload their ppt and video by then.**
 
-3) Make a **Private Repository** which will make sure your content is not viewed by unauthorized people. **Name Format: [TeamId - TeamName]** eg: **[1012-RuntimeError]** 
+3) Make a **Private Repository** which will make sure your content is not viewed by unauthorized people.
+ **Name Format: [TeamId - TeamName]** eg: **[1012-RuntimeError]** 
 
 4) Use the **Add File** button to add your presentation and **commit changes** to your repository. 
 **Note: you can only commit changes once. Further changes will not be considered.**
