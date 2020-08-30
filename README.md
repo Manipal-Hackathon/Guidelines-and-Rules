@@ -32,7 +32,7 @@ This is a technical round. You have to **submit a PPT (Proof of Concept) and vid
 
 10. Thank you slide
 
-The video's length should be in the range of **3-5 minutes**. For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
+The video's length should be aroound **5 minutes**. For more details regarding video submission click [here](https://hackathon.techtatva.in/hackathon.pdf)
 
 #### Submission Rules:
 
