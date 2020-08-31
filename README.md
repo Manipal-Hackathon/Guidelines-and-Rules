@@ -64,7 +64,7 @@ The video length should be around **5 minutes**. For more details regarding vide
 
 **Q:** When will submissions begin?
 
-**A:**  *Date for submission will be announced shortly.*
+**A:**  ***Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM (24 hours).***
 
 **Q:** Is there any late submission?
 
