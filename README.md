@@ -60,7 +60,7 @@ The video length should be around **5 minutes**. For more details regarding vide
 
 **Q:** How many times can I submit my file?
 
-**A:** *The file can be uploaded once. In the case of multiple entries, only the first submission will be counted.*
+**A:** *The file can be uploaded only once. In the case of multiple entries, only the first submission will be counted.*
 
 **Q:** When will submissions begin?
 
