@@ -42,7 +42,7 @@ The video length should be around **5 minutes**. For more details regarding vide
 
 2) You will be able to create a repository only during the last day of Round 2.
 
-### Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM (24 hours).
+### Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM IST (24 hours).
 
 **The page will be active for 24 hours so participants must make sure that they upload their ppt and video by then.**
 
@@ -64,7 +64,7 @@ The video length should be around **5 minutes**. For more details regarding vide
 
 **Q:** When will submissions begin?
 
-**A:**  ***Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM (24 hours).***
+**A:**  ***Repository creation and submission of presentation will be enabled on 30th August, 11.59PM and will close on 31st August, 11.59PM IST (24 hours).***
 
 **Q:** Is there any late submission?
 
