@@ -8,7 +8,7 @@ Click [here]( https://join.slack.com/t/manipalhackathon/shared_invite/zt-gu4o741
 
 #### Round 2 is a PPT & Video Submission round, a few points as a refresher:
 
-This is a technical round. You have to **submit a PPT (Proof of Concept) and video** that complements and explains the technical aspects of the PPT.
+This is a technical round. You have to **submit a PPT (Proof of Concept) and a video** that complements and explains the technical aspects of the PPT.
 
 #### Structure of PPT/Proof of Concept: (as provided in the template sent by email)
 
